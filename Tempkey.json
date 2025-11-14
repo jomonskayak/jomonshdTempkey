@@ -42,11 +42,11 @@
     "allowOffline": false
   },
   {
-    "id": "DLLLLHGGY",
+    "id": "8bc4020ebf5c965d",
     "username": "123",
     "password": "123",
-    "expiresAt": "2024-12-31",
-    "allowOffline": true
+    "expiresAt": "2025-11-15",
+    "allowOffline": false
   },
   {
     "id": "android_device_id_2",
