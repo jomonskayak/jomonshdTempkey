@@ -80,7 +80,7 @@
     "id": "7f3cb14665204bfa",
     "username": "123",
     "password": "123",
-    "expiresAt": "2025-11-28",
+    "expiresAt": "2024-11-28",
     "allowOffline": false
   },
   {
@@ -105,9 +105,9 @@
     "allowOffline": true
   },
   {
-    "id": "android_device_id_2",
-    "username": "user2",
-    "password": "pass2",
+    "id": "7f3cb14665204bfa",
+    "username": "123",
+    "password": "123",
     "expiresAt": "2025-11-30",
     "allowOffline": false
   },
