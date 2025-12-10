@@ -158,7 +158,7 @@
     "username": "123",
     "password": "123",
     "expiresAt": "2040-12-31",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "android_device_id_2",
