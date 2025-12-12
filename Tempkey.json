@@ -164,8 +164,8 @@
     "id": "f9a2d77148e00cd7",
     "username": "123",
     "password": "123",
-    "expiresAt": "2026-11-30",
-    "allowOffline": false
+    "expiresAt": "2040-11-30",
+    "allowOffline": true
   },
   {
     "id": "DLLLLHGGY",
