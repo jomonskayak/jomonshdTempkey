@@ -263,7 +263,7 @@
     "username": "123",
     "password": "123",
     "expiresAt": "2045-11-30",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "DLLLLHGGY",
