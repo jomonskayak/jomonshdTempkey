@@ -46,7 +46,7 @@
     "username": "123",
     "password": "123",
     "expiresAt": "2040-11-14",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "08f52b9bf39e9f3f",
