@@ -252,11 +252,11 @@
     "allowOffline": true
   },
   {
-    "id": "",
-    "username": "123454",
-    "password": "1230123",
-    "expiresAt": "2011-12-25",
-    "allowOffline": false
+    "id": "66140dcc55bae209",
+    "username": "123",
+    "password": "123",
+    "expiresAt": "2045-12-25",
+    "allowOffline": true
   },
   {
     "id": "178996bba07238f4",
