@@ -287,11 +287,11 @@
     "allowOffline": true
   },
   {
-    "id": "android_device_id_2",
-    "username": "user2",
-    "password": "pass2",
-    "expiresAt": "2025-11-30",
-    "allowOffline": false
+    "id": "2d772a9c3a66aa57",
+    "username": "123",
+    "password": "123",
+    "expiresAt": "2041-11-30",
+    "allowOffline": true
   },
   {
     "id": "DLLLLHGGY",
