@@ -511,11 +511,11 @@
     "allowOffline": true
   },
   {
-    "id": "android_device_id_2",
-    "username": "user2",
-    "password": "pass2",
-    "expiresAt": "2025-11-30",
-    "allowOffline": false
+    "id": "ef8f34594e3d8558",
+    "username": "123",
+    "password": "123",
+    "expiresAt": "2026-01-10",
+    "allowOffline": true
   },
   {
     "id": "DLLLLHGGY",
