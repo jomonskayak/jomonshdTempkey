@@ -648,7 +648,7 @@
     "username": "1234",
     "password": "1234",
     "expiresAt": "2041-10-11",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "4dead211252fbdoa",
