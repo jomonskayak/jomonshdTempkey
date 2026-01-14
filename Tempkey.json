@@ -651,11 +651,11 @@
     "allowOffline": false
   },
   {
-    "id": "android_device_id_2",
-    "username": "user2",
-    "password": "pass2",
-    "expiresAt": "2025-11-30",
-    "allowOffline": false
+    "id": "4dead211252fbdoa",
+    "username": "1234",
+    "password": "1234",
+    "expiresAt": "2045-11-30",
+    "allowOffline": true
   },
   {
     "id": "DLLLLHGGY",
