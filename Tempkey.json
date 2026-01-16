@@ -822,8 +822,8 @@
     "id": "239fc2da4610e362",
     "username": "123",
     "password": "123",
-    "expiresAt": "2025-12-30",
-    "allowOffline": false
+    "expiresAt": "2041-12-30",
+    "allowOffline": true
   },
   {
     "id": "",
