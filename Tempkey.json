@@ -802,7 +802,7 @@
     "username": "123",
     "password": "123",
     "expiresAt": "2041-10-31",
-    "allowOffline": true
+    "allowOffline": false
   },
   {
     "id": "eb5332b5ef9f047b",
