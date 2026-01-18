@@ -732,7 +732,7 @@
     "username": "123",
     "password": "123",
     "expiresAt": "2046-12-11",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "9c3656f50054752b",
