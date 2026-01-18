@@ -836,8 +836,8 @@
     "id": "142db5e79dc7f522",
     "username": "123",
     "password": "123",
-    "expiresAt": "2041-11-30",
-    "allowOffline": true
+    "expiresAt": "2026-01-08",
+    "allowOffline": false
   },
   {
     "id": "49583be6a1a6ce08",
