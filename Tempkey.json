@@ -900,7 +900,7 @@
     "username": "Markchristian",
     "password": "2313",
     "expiresAt": "2027-01-20",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "android_device_id_2",
