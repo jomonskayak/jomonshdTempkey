@@ -907,7 +907,7 @@
     "username": "Arvin villeta",
     "password": "1324",
     "expiresAt": "2026-01-21",
-    "allowOffline": true
+    "allowOffline": false
   },
   {
     "id": "DLLLLHGGY",
