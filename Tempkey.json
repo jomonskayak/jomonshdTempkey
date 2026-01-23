@@ -907,14 +907,14 @@
     "username": "1234",
     "password": "1234",
     "expiresAt": "2042-11-21",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "3d0c2c623d289b9f",
     "username": "123",
     "password": "123",
     "expiresAt": "2027-12-31",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "android_device_id_2",
